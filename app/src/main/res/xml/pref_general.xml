@@ -1,0 +1,21 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="switch_1"
+        android:summary="@string/pref_description_social_recommendations"
+        android:title="Welcome Home!" />
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="switch_2"
+        android:summary="Enable Room Based Location for Voice Commands"
+        android:title="Room Based Location" />
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="switch_3"
+        android:summary="Enable to save on electricity bills"
+        android:title="Day-Light Savings" />
+
+</PreferenceScreen>

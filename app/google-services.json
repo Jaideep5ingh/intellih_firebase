@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "988647226452",
+    "firebase_url": "https://intellih-3917b.firebaseio.com",
+    "project_id": "intellih-3917b",
+    "storage_bucket": "intellih-3917b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988647226452:android:7e2d31df1ef518aa",
+        "android_client_info": {
+          "package_name": "com.example.yash.intellih_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988647226452-2jsunkthcngv41trkaf5ve4kmq3ae860.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yash.intellih_firebase",
+            "certificate_hash": "fc4efd3cc89860af878379b7b99fd69593f1d6b7"
+          }
+        },
+        {
+          "client_id": "988647226452-81rprilbrc5cabhiu94nkfkgldvh3fj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Db4D2iCmrjFpmbtpI6P_m4nddpQMVf8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988647226452-81rprilbrc5cabhiu94nkfkgldvh3fj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
